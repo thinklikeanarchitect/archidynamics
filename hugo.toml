@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 baseURL       = "http://example.org/"
 languageCode  = "en-us"
 title         = "Roxo | Creative Design Agency"
@@ -142,3 +143,8 @@ summarylength = 25
         description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
       [params.footer.back_to_top]
         description = "I want to <br> visit again"
+=======
+baseURL = 'https://thinklikeanarchitect.github.io/archidynamics/'
+languageCode = 'en-us'
+title = 'Archidynamics'
+>>>>>>> eccc5d87cecafb08a115b786db771ac6e8d00940
